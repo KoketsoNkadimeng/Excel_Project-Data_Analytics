@@ -34,13 +34,13 @@ This project uses Microsoft Excel to build a dynamic **Salary Dashboard** that p
 
 - Identified job with the highest and lowest average salaries
 - Showed global salary disparities and highlightinh high/low salary regions.
--Identified salary trends,noting that Senior roles and Engineers are higher-paying than Analyst roles.
+- Identified salary trends,noting that Senior roles and Engineers are higher-paying than Analyst roles.
 
 ---
 
 ## 🧾 Conclusion
 
-I created this dashboard to showcase insights ntosalary trends across various data-related job ttitle.The dashboard helps users understand how factors like location, job title, and skills impact salary, ultimately supporting more informed career planning and salary benchmarking decisions.
+I created this dashboard to showcase insights into salary trends across various data-related job title.The dashboard helps users understand how factors like location, job title, and skills impact salary, ultimately supporting more informed career planning and salary benchmarking decisions.
 
 
 
